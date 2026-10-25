@@ -1,0 +1,3 @@
+Trên các phiên bản ubuntu hiện đại, khi bạn cài Certbot qua gói apt, hệ thống đã tự động
+thiết lập sẵn một systemd timer chạy ngầm 2 lần mỗi ngày để kiểm tra và tự gia hạn chứng
+chỉ nếu thời hạn còn dưới 30 ngày.
